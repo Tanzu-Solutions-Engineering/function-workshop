@@ -1,0 +1,9 @@
+name: Function Workshop
+
+modules:
+    activate:
+    - workshop-overview
+    - exercises/01-spring-cloud-function
+    - exercises/02-tap-functions
+    - exercises/03-knative-eventing
+    - workshop-summary

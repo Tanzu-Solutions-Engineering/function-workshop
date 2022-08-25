@@ -1,0 +1,6 @@
+- Start with Cody.  Cody is using Spring already and wants to quickly deploy a web invokable function.
+  - Intro Spring Cloud Function and show example app.  Deploy app.
+- Intro Alana, who cares about scale to zero.  Show how we can modify the workload.yaml definition to enable scale to zero.
+  -  Modify and push.
+  -  Show scale to 0
+  -  So that's great!  But, what about other languages like Python?  In this case Alana was able to install an accelerator from TAP to streamline the creation of a Python based function.

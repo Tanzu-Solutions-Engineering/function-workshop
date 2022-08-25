@@ -1,0 +1,4 @@
+- But Alana also has to deal with functions that aren't just invoked via HTTP.  Events can come from all sorts of sources: Messaging, Git, Cloud Events, or even Infrastructure Events from projects like VMware Event Broker Appliance.  So Alana needs a consistent way to deploy functions that could be invoked via any event source.
+	- In this example, Alana's organization uses Kafka as their event transaction store.
+- Cody wants to have his function invoked whenever certain events get written to Kafka.
+	- Quick intro of KNative Eventing

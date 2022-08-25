@@ -1,0 +1,16 @@
+modules:
+    workshop-overview:
+        name: Workshop Overview
+        exit_sign: Spring Cloud Function
+    exercises/01-spring-cloud-function:
+        name: Spring Cloud Function
+        exit_sign: Tanzu Application Platform Functions
+    exercises/02-tap-functions:
+        name: Tanzu Application Platform Functions
+        exit_sign: KNative Eventing
+    exercises/03-knative-eventing:
+        name: KNative Eventing
+        exit_sign: Summary
+    workshop-summary:
+        name: Workshop Summary
+        exit_sign: Finish Workshop
